@@ -25,5 +25,5 @@ $ docker run -it acseo/uilicious-cli sh -c "uilicious-cli download --key UILICIO
 Edit *UILICIOUS_KEY*,  *PROJECT_NAME* and *TEST_TO_RUN* and launch the command
 
 ```bash
-$ docker run -it acseo/uilicious-cli sh -c "uilicious-cli run 'FFTT' 'TEST_TO_RUN' --key BHNpNkQroZ8ohAMfQGmUb8"
+$ docker run -it acseo/uilicious-cli sh -c "uilicious-cli run 'FFTT' 'TEST_TO_RUN' --key UILICIOUS_KEY"
 ```
